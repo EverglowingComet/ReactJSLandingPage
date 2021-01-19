@@ -60,7 +60,7 @@ export class Contact extends Component {
                 </form>
               </div>
             </div>
-            <div className="col-md-3 col-md-offset-1 contact-info">
+            <div className="col-md-3 offset-md-1 contact-info">
               <div className="contact-item">
                 <h3>Contact Info</h3>
                 <p>
